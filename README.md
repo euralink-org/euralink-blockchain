@@ -11,6 +11,7 @@ If you received an invitation from the admin and would like to contribute to thi
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/euralink-org/euralink-blockchain)
 [![Coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)](https://github.com/euralink-org/euralink-blockchain)
 [![Chat](https://img.shields.io/badge/chat-join_chat-blue)](https://github.com/euralink-org/euralink-blockchain)
+[![Celo Repository](https://img.shields.io/badge/celo_repository-visit-blue)](https://github.com/celo-org/celo-blockchain)
 
 ## Integrating Celo Attestation Features
 
